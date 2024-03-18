@@ -1,11 +1,12 @@
 # Epic MegaJam 2022
 
-## Upside Down: 3D Platform Game ⬛⬜
 ![Build Passing](https://img.shields.io/badge/build-passing-brightgreen)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 [![Itch.io](https://img.shields.io/badge/download-itch.io-%23e3326d)](https://itaruf.itch.io/upside-down)
 [![Youtube](https://img.shields.io/badge/demo-youtube-%23db1818)](https://www.youtube.com/watch?v=J8vLNM-fff8)
 [![Portfolio](https://img.shields.io/badge/details-personal%20website-%235203fc)](https://itaruf.github.io/projects.html)
+
+## Upside Down: 3D Platform Game ⬛⬜
 
 - Defy gravity and try to get out of a mysterious world.
 
