@@ -11,7 +11,7 @@
 
 ## Skills :fire:
 - **Scripting system**: Unreal Engine's Blueprints
-- **Tools**: Unreal Engine 5, Visual Studio Community 2022, Git
+- **Tools**: Unreal Engine 5, JetBrains Rider, Perforce
 
 ## Project Highlights ⭐ 
 - **Incoming**
