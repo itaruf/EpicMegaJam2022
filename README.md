@@ -1,4 +1,4 @@
-# Epic MegaJam 2022
+## Epic MegaJam 2022
 
 ![Build Passing](https://img.shields.io/badge/build-passing-brightgreen)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
