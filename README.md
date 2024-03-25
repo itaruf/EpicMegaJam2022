@@ -81,7 +81,7 @@
     </ul>
   </li>
   
-  <li><h4>Gravity Puzzles & Object interactions</h4>
+  <li><h4>Gravity puzzles & Object interactions</h4>
     <ul>
       <li>Collecting shards by solving gravity-based puzzles defines progression. Players can alter gravity for themselves or specific objects, crafting pathways and avoiding detection.</li>
     </ul>
