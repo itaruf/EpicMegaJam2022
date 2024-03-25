@@ -31,10 +31,10 @@
 <!-- TechStack -->
 ### :space_invader: Tech stack
 
-  - **Scripting system**: Unreal Engine's Blueprints
-  - **Game engine**: Unreal Engine 5
-  - **IDE**: JetBrains Rider
-  - **Version control**: Perforce
+  - **Scripting system**: Unreal Engine's Blueprints.
+  - **Game engine**: Unreal Engine 5.
+  - **IDE**: JetBrains Rider.
+  - **Version control**: Perforce.
 
 ### :star: Highlights 
 - **Incoming**
